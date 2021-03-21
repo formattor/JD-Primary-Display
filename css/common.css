@@ -161,7 +161,7 @@
   width: 210px;
   height: 465px;
   background-color: #c81623;
-  display: none;
+  /* display: none; */
 }
 
 .dropdown .dd ul li {
